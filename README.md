@@ -4,34 +4,6 @@
 
 ## List of plugins
 
-### Easy Redmine
-
- * Chat
- * WBS plugin
-
-### RedmineUp
-
- * Agile plugin
- * Checklist plugin
- * CRM plugin
- * Favorite projects plugin
- * Finance plugin
- * Invoces plugin
- * People plugin
- * Products plugin
- * Redmine questions
- * Tags plugin
-
-### RM+
-
- * Extra queries
- * Global roles
- * Issue tabs
- * Under construction
- * Unread issues
- * Usability
- * User mentions
-
 
 # Installation
 
